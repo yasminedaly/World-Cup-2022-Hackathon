@@ -1,0 +1,33 @@
+Group,Team,Country_Name_Short,First match against,Second match against,Third match against
+A,Brazil,BRA,Croatia,Mexico,Cameroon
+A,Cameroon,CAM,Mexico,Croatia,Brazil
+A,Mexico,MEX,Cameroon,Brazil,Croatia
+A,Croatia,CRO,Brazil,Cameroon,Mexico
+B,Spain,ESP,Netherlands,Chile,Australia
+B,Netherlands,NED,Spain,Australia,Chile
+B,Chile,CHI,Australia,Spain,Netherlands
+B,Australia,AUS,Chile,Netherlands,Spain
+C,Colombia,COL,Greece,Ivory Coast,Japan
+C,Greece,GRE,Colombia,Japan,Ivory Coast
+C,Ivory Coast,CIV,Japan,Colombia,Greece
+C,Japan,JAP,Ivory Coast,Greece,Colombia
+D,Uruguay,URU,Costa Rica,England,Italy
+D,Costa Rica,CRC,Uruguay,Italy,England
+D,England,ENG,Italy,Uruguay,Costa Rica
+D,Italy,ITA,England,Costa Rica,Uruguay
+E,Switzerland,SUI,Ecuador,France,Honduras
+E,Ecuador,ECU,Switzerland,Honduras,France
+E,France,FRA,Honduras,Switzerland,Ecuador
+E,Honduras,HON,France,Ecuador,Switzerland
+F,Argentina,ARG,Bosnia and Herzegovina,Iran,Nigeria
+F,Bosnia and Herzegovina,BIH,Argentina,Nigeria,Iran
+F,Iran,IRA,Nigeria,Argentina,Bosnia and Herzegovina
+F,Nigeria,NIG,Iran,Bosnia and Herzegovina,Argentina
+G,Germany,GER,Portugal,Ghana,United States
+G,Portugal,POR,Germany,United States,Ghana
+G,Ghana,GHA,United States,Germany,Portugal
+G,United States,USA,Ghana,Portugal,Germany
+H,Belgium,BEL,Algeria,Russia,South Korea
+H,Algeria,ALG,Belgium,South Korea,Russia
+H,Russia,RUS,South Korea,Belgium,Algeria
+H,South Korea,KOR,Russia,Algeria,Belgium

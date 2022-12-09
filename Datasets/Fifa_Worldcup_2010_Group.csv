@@ -1,0 +1,33 @@
+Group,Team,Country_Name_Short,First match against,Second match against,Third match against
+A,South Africa,RSA,Mexico,Uruguay,France
+A,Mexico,MEX,South Africa,France,Uruguay
+A,Uruguay,URU,France,South Africa,Mexic
+A,France,FRA,Uruguay,Mexico,South Africa
+B,Argentina,ARG,Nigeria,South Korea,Greece
+B,Nigeria,NGA,Argentina,Grrece,South Korea
+B,South Korea,KOR,Grrece,Argentina,Nigeria
+B,Grrece,GRE,South Korea,Nigeria,Argentina
+C,England,ENG,United States,Algeria,Solovenia
+C,United States,USA,England,Slovenia,Algeria
+C,Algeria,ALG,Slovenia,England,United States
+C,Slovenia,SVN,Algeria,United States,England
+D,Germany,GER,Australia,Serbia,Ghena
+D,Australia,AUS,Germany,Ghana,Serbia
+D,Serbia,SRB,Ghana,Germany,Australia
+D,Ghana,GHA,Serbia,Australia,Germany
+E,Netherlands,NED,Denmark,Japan,Cameroon
+E,Denmark,DEN,Netherlands,Cameroon,Japan
+E,Japan,JPN,Cameroon,Netherlands,Denmark
+E,Cameroon,CMR,Japan,Denmark,Netherlands
+F,Italy,ITA,Paraguay,New Zealand,Slovakia
+F,Paraguay,PAR,Italy,Slovakia,New Zealand
+F,New Zealand,NZL,Slovakia,Italy,Paraguay
+F,Slovakia,SVK,New Zealand,Paraguay,Italy
+G,Ivory Coast,CIV,Potugal,Brazil,North Korea
+G,Portugal,POR,Ivory Coast,North Korea,Brazil
+G,Brazil,BRA,North Korea,Ivory Coast,Portugal
+G,North Korea,PRK,Brazil,Portugual,Ivory Coast
+H,Switzerland,SUI,Spain,Chile,Honduras
+H,Honduras,HON,Chile,Spain,Switzerland
+H,Chile,CHI,Honduras,Switzerland,Spain
+H,Spain,ESP,Switzerland,Honduras,Chile
